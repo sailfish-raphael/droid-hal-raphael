@@ -7,7 +7,7 @@
 %define vendor_pretty Xiaomi
 %define device_pretty Mi 9T Pro
 
-%define rpm_device davinci
+%define rpm_device raphael
 %define installable_zip 1
 %define droid_target_aarch64 1
 
@@ -29,7 +29,6 @@
     /odm \
     /system \
     /oem \
-    /verity_key \
 %{nil}
 
 %define additional_post_scripts \
