@@ -1,7 +1,7 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device rapahel
+%define device raphael
 %define vendor xiaomi
 
 %define vendor_pretty Xiaomi
